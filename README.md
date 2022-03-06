@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Minaev Nickolai, i'm junior PHP/Go developer.
 - 👀 I’m interested in IoT technologies, Golang and Linux.
 - 🌱 I’m currently learning PHP/Go stack
-- 💞️ 
 - 📫 I'm on Telegram - @aeterna_13
 
 <!---
