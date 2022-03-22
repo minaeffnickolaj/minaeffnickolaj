@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Minaev Nickolai, i'm junior PHP/Go developer.
+- 👋 Hi, my name is Minaev Nickolai, i'm junior Go developer.
 - 👀 I’m interested in IoT technologies, Golang and Linux.
 - 🌱 I’m currently learning Go stack
 - 📫 I'm on Telegram - @aeterna_13
