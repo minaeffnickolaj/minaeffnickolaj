@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Minaev Nickolai, i'm junior Go developer.
 - 👀 I’m interested in IoT technologies, Golang and Linux.
 - 🌱 I’m currently learning Go stack
-- 📫 I'm on Telegram - @aeterna_13
+- 📫 I'm on Telegram - @crazee_13
 
 <!---
 minaeffnickolaj/minaeffnickolaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
