@@ -1,6 +1,5 @@
-- 👋 Hi, my name is Minaev Nickolai, i'm junior Go developer.
-- 👀 I’m interested in IoT technologies, Golang and Linux.
-- 🌱 I’m currently learning Go stack
+- 👋 Hi, my name is Minaev Nickolai, i'm junior System Analyst.
+- 👀 I’m interested in IoT technologies, Go, Java and *nix.
 - 📫 I'm on Telegram - @crazee_13
 
 <!---
