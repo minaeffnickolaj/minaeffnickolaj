@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Minaev Nickolai, i'm junior System Analyst.
-- 👀 I’m interested in IoT technologies, Go, Java and *nix.
+- 👀 I’m interested in IoT technologies, Rust, Python.
 - 📫 I'm on Telegram - @crazee_13
 
 <!---
